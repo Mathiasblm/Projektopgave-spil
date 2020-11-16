@@ -10,3 +10,8 @@ I wow har man 3 forskellige typer penge: copper, silver og gold.
 1 silver = 100 copper og 1 gold = 100 silver.
 
 Dette system laver jeg også i mit spil.
+
+
+09-11-2020 til 16-11-2020
+Nu går jeg i gang med at lave den knap der skal give dig penge når du klikker på den. 
+Hvis jeg bliver færdig med det begynder jeg at arbejde på upgrades.
