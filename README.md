@@ -15,3 +15,8 @@ Dette system laver jeg også i mit spil.
 09-11-2020 til 16-11-2020
 Nu går jeg i gang med at lave den knap der skal give dig penge når du klikker på den. 
 Hvis jeg bliver færdig med det begynder jeg at arbejde på upgrades.
+
+
+23-11-2020
+Nu arbejder jeg på at lave den clock der kører konstant og tilføjer penge til dig baseret på hvor mange upgrades du har.
+Når jeg er færdig med det går jeg igang med at lave knapperne som du køber upgrades med.
