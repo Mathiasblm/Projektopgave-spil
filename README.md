@@ -20,3 +20,8 @@ Hvis jeg bliver færdig med det begynder jeg at arbejde på upgrades.
 23-11-2020
 Nu arbejder jeg på at lave den clock der kører konstant og tilføjer penge til dig baseret på hvor mange upgrades du har.
 Når jeg er færdig med det går jeg igang med at lave knapperne som du køber upgrades med.
+
+29-11-2020
+Jeg har updated måden penge bliver holdt styr på med en dedikeret clock der kører meget hurtigt. 
+Derudover har jeg lavet den første upgrade og fået den til at fungere.
+Nu mangler jeg bare at adde den funktion der forhindrer dig i at købe en upgrade hvis du ikke har råd til den.
